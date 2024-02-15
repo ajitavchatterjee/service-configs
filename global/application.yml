@@ -1,6 +1,4 @@
-global:
-  language:
-    english: Hello
-    spanish: Hola
-    french: Bonjour
-    hindi: namaste
+bar:
+  foo: test-foo
+  too: test-too
+  doo: test-doo

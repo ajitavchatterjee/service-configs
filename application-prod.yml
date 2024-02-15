@@ -1,0 +1,6 @@
+global:
+  language:
+    english: Hello-prod
+    spanish: Hola-prod
+    french: Bonjour-prod
+    hindi: namaste-prod
